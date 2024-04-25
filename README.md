@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Koala0107/Koala0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐨 자기소개(About Me)
 
-Here are some ideas to get you started:
+**저는 취미로 번역 작업을 하는 코알라입니다. 역자의 주관적인 해석으로 인한 의역이 다수 있을 수 있습니다.**\
+**초벌 번역 후 직접 플레이하며 맞춤법, 오역, 단어의 통일성 등을 찾아 수정하는 과정을 거칩니다.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* * * 
+
+**Hello, I'm Koala! (👋)**\
+**I'm a beginner translator. I can translate English or Japanese to Korean.**\
+**I'm still studying languages. studying languages is one of my favorite hobbies.**\
+**Thank you so much for allowing me to contribute to your mod.**
+
+* * *
