@@ -14,8 +14,3 @@
 **Thank you so much for allowing me to contribute to your mod.**
 
 ***
-
-**🌐 Site**
-
-[![Discord Badge](https://img.shields.io/badge/Koala-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/V5jgCf5s6H")](https://discord.gg/V5jgCf5s6H)
-[![Weblate Badge](https://img.shields.io/badge/Weblate-2ECCAA?.svg?&style=for-the-badge&logo=weblate&logoColor=white&link=https://weblate.org/ko/)](https://weblate.org/ko/)
